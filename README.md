@@ -10,7 +10,7 @@
 
 **Author:** [@RustFlash](https://github.com/Flash-Ticker)
 
-[![RustFlash - Your Favourite Trio Server](https://github.com/Flash-Ticker/SkinFinder/blob/main/SkinFinder_Thumb.png)](https://www.youtube.com/watch?v=F73j7T1dC6s)
+[![RustFlash - Your Favourite Trio Server](https://github.com/Flash-Ticker/SkinFinder/blob/main/SkinFinder_Thumb.png)](https://youtu.be/F73j7T1dC6s)
 
 
 ## Description:
@@ -21,10 +21,6 @@ SkinFinder is an admin tool with which you can pull the SkinID of certain object
 If you are looking for more useful free plugins, please have a look at my Discord, you only have to choose the Flash role when you join.
 [https://discord.gg/2ftdtaTQ6S](https://discord.gg/2ftdtaTQ6S)
 
-- **UI to switch cupboards**: A graphical user interface that allows players to choose between different cupboard types.
-- **Multiple cupboard types**: Supports switching between normal, retro, and shockbyte tool cupboards.
-- **Permission-based access**: Only players with the appropriate permission can use the command to switch cupboards.
-- **Simple commands**: Easy-to-use chat and console commands for interacting with the plugin.
 
 ## Permission:
 To use the plugin, you need the .use permission. 
