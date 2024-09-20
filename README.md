@@ -10,7 +10,7 @@
 
 **Author:** [@RustFlash](https://github.com/Flash-Ticker)
 
-[![RustFlash - Your Favourite Trio Server](https://github.com/Flash-Ticker/SkinFinder/blob/main/SkinFinder_Thumb.png)](https://youtu.be/xJzMHkWhYpw?si=Xg3FFy5DJ8DGYJIP)
+[![RustFlash - Your Favourite Trio Server](https://github.com/Flash-Ticker/SkinFinder/blob/main/SkinFinder_Thumb.png)](https://www.youtube.com/watch?v=F73j7T1dC6s)
 
 
 ## Description:
